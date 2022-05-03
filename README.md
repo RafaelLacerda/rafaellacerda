@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, eu sou o Rafael Lacerda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**rafaellacerda/rafaellacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Linkedin**: [![Linkedin Badge](https://img.shields.io/badge/-rafaellacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelcastrolacerda)](https://linkedin.com/in/rafaelcastrolacerda) 
 
-Here are some ideas to get you started:
+Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos proporcionar :heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias 💻 
+
+Javascript, HTML, CSS, ReactJS, React Native, Angular, AngularJS, Mobx, Redux, Typescript, Ionic.
+
+## Tecnologias Secundárias 💻 
+
+NodeJS, Flutter, C#
+
+## Educação :man_student:
+
+**Universidade Paulista - UNIP** - 2011 - 2013
