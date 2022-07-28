@@ -6,6 +6,8 @@ Nos últimos anos trabalho focado com Javascript, especialmente React e React Na
 
 Adoro trabalhar em projetos diferentes, vivendo em constante apredizado e sou apaixonado pelo que HTML, CSS e Javascript podem nos proporcionar :heart:
 
+_____
+
 ### Conhecimentos 
 
 - Javascript
