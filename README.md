@@ -8,25 +8,4 @@ Adoro trabalhar em projetos diferentes, vivendo em constante apredizado e sou ap
 
 _____
 
-### Conhecimentos 
-
-- Javascript
-- HTML
-- CSS
-- ReactJS
-- React Native
-- NodeJS
-- Angular e AngularJS
-- Mobx
-- Redux
-- Typescript
-- Ionic
-
-### Tecnologias Secundárias 
-
-- Flutter
-- C#
-
-_____
-
-[Site](http://rafaellacerda.me)   |   [LinkedIn](https://linkedin.com/in/rafaelcastrolacerda)
+[LinkedIn](https://linkedin.com/in/rafaelcastrolacerda)
